@@ -1,0 +1,41 @@
+header {
+  
+  text-align: center;
+  font-size: 2rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  
+  
+
+}
+
+body {
+  background: linear-gradient(to right, #ffffff,#b0eaf7);
+  overflow-y: hidden;
+  
+}
+
+
+
+
+footer {
+  padding: 3rem;
+  background-color: white;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
+
+ @media screen and (min-width: 40em) {
+  main {
+    margin: 0; 
+  }
+}
+  
